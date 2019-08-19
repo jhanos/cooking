@@ -1,0 +1,29 @@
+- name: Salade de pate composée  thon oeufs poivron tomates 
+  composants:
+  - name: pates
+    size: 240g
+  - name: thon
+    size: 280g
+  - name: oeuf dur
+    size: 3
+  - name: poivron
+    size: 1
+  - name: tomate
+    size: 2
+  - name: huile olive
+    size: 1 CS
+  - name: moutarde
+    size: 1 a 2 CS
+  recipe:
+  - 0 , Cuire les pates et les mettres à refroidir
+  - 1 , Couper Oeuf tomates et poivron en dés
+  - 2 , Preparer vinaigrette aec huile olive, vinaigre balsamique moutarde, sel et poivre et un peu d'eau pour détendre la vinaigrette
+  - 3 , tout mélanger dans un saladir 
+  - 4 , ajouter des cornichons 
+  - 5 , laisser refroidir 1 h
+- name: salade de riz complet
+  composants:
+  - name: riz
+    size: 100g
+  recipe:
+  - fuire cuire blabla

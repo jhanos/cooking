@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+<head>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<style>
+a + div {
+  display:none;
+}
+
+a:focus + div {
+  display:block;
+}
+
+a:focus {
+  pointer-events: none;
+}
+</style>
+</head>
+<body>
+<title>Recipes</title>
+
+{% for key in data %}
+<a href="#">{{key['name']}}</a>
+<div class="col-md-8 col-xs-7">
+<h4>Ingredients:</h4>
+<ul>
+{% for compo in key['composants'] %}
+<li>{{compo['name']}}: {{compo['size']}}</li>
+</br>
+{% endfor %}
+</ul>
+<h4>Recipe:</h4>
+<ul>
+{% for recipe in key['recipe'] %}
+<li>{{recipe}}</li>
+</br>
+{% endfor %}
+</ul>
+</div>
+</br>
+{% endfor %}
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+</body>
+</html>
