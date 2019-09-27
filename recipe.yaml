@@ -26,4 +26,37 @@
   - name: riz
     size: 100g
   recipe:
-  - fuire cuire blabla
+  - fuire cuire blablablablabla test2
+- name: salade de pomme de terre thon
+  composants:
+  - name: pomme de terre
+    size: 800g
+  - name: thon
+    size: 280g
+  - name: haricot rouge
+    size: 250g
+  - name: cacahouette
+    size: 3 poignees
+  - name: huile de colza
+    size: 3 CS
+  - name: vinaigre balsamique
+    size: 3 CS
+  - name: graine de courge
+    size:
+  - name: graine de sesame
+    size:
+  - name: graine de tournesol
+    size:
+  recipe:
+  - faire cuire les pommes de terre (cookeo 30 min) , laisser refroidir
+  - couper les patates en morceaux
+  - melanger le thon et le reste des ingrédients
+  - Ajouter 3 CS de vinaigne balsamique et 3 CS de huile de colza
+- name: 6 crepes vegan
+  composants:
+  - name: farine
+    size: 250g
+  - name: lait riz coco
+    size: 200cl
+  - name: huile olive
+    size: 1 CS
