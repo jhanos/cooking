@@ -1,6 +1,6 @@
-- name: Salade de pate composée  thon oeufs poivron tomates 
+- name: Salade de riz composée  thon oeufs poivron tomates 
   composants:
-  - name: pates
+  - name: riz
     size: 240g
   - name: thon
     size: 280g
@@ -14,20 +14,16 @@
     size: 1 CS
   - name: moutarde
     size: 1 a 2 CS
+  - name: graines
   recipe:
-  - 0 , Cuire les pates et les mettres à refroidir
-  - 1 , Couper Oeuf tomates et poivron en dés
-  - 2 , Preparer vinaigrette aec huile olive, vinaigre balsamique moutarde, sel et poivre et un peu d'eau pour détendre la vinaigrette
-  - 3 , tout mélanger dans un saladir 
+  - 0 , Cuire le riz et le mettre à refroidir
+  - 1 , Cuire les oeufs, 10 min après ébullition
+  - 2 , Couper Oeuf tomates et poivron en dés
+  - 2 , Preparer vinaigrette avec huile olive, vinaigre balsamique moutarde, sel et poivre et un peu d'eau pour détendre la vinaigrette
+  - 3 , Tout mélanger dans un saladier 
   - 4 , ajouter des cornichons 
-  - 5 , laisser refroidir 1 h
-- name: salade de riz complet
-  composants:
-  - name: riz
-    size: 100g
-  recipe:
-  - fuire cuire blablablablabla test2
-- name: salade de pomme de terre thon
+  - 5 , Laisser refroidir 1 h
+- name: Salade de pomme de terre thon
   composants:
   - name: pomme de terre
     size: 800g
@@ -48,9 +44,9 @@
   - name: graine de tournesol
     size:
   recipe:
-  - faire cuire les pommes de terre (cookeo 30 min) , laisser refroidir
-  - couper les patates en morceaux
-  - melanger le thon et le reste des ingrédients
+  - Faire cuire les pommes de terre (cookeo 30 min) , laisser refroidir
+  - Couper les patates en morceaux
+  - Melanger le thon et le reste des ingrédients
   - Ajouter 3 CS de vinaigne balsamique et 3 CS de huile de colza
 - name: 6 crepes vegan
   composants:
@@ -60,3 +56,63 @@
     size: 200cl
   - name: huile olive
     size: 1 CS
+- name: Patate douce, orange et noix de pecans
+  composants:
+  - name: patates douces
+    size: 1 kg
+  - name: noix de pecan
+    size: 80 g
+  - name: beurre
+    size: 70 g
+  - name: casonade
+    size: 3 CS
+  - name: jus d'orange
+    size: 20 cl
+  recipe:
+  - 0/ Eplucher et couper les patates douces en cube
+  - 1/ Passer le cookeo en mode dorer
+  - 2/ Mettre les noix de pecans à part.
+  - 3/ Faire revenir beurre + patate douces + cassonade pendant 2 min
+  - 4/ Ajouter jus d'orange + sel + poivre 
+  - 5/ Lancer le mode sous pression 11 min
+  - 6/ Faire dorer les noix de pecans 2 min à la poele 
+  - 7/ Ajouter les noix de pecans à la fin.
+- name: Pizza vege
+  composants:
+  - name: levure boulangere
+    size: 1 sachet
+  - name: farine
+    size: 350 g
+  - name: sauce tomate concentré
+    size: 70 g
+  - name: tomate ou tomate cerise
+    size: 1 ou 5
+  - name: poivron
+    size: 1/2
+  - name: oignon
+    size: 1/2
+  - name: fromage rapé
+    size: 200 g
+  - name: herbe de provence
+    size: juste saupoudrer
+  - name: huile olive
+    size: 2 CS
+  - name: sel
+    size: 2 pincé
+  - name: sucre
+    size: 2 pincée
+  recipe:
+  - 0, Verser la farine dans un saladier
+  - 1, Ajouter une pincée de sel et de sucre et melanger
+  - 2, Ajouter la levure boulangere et mélanger 
+  - 3, Ajouter les 2 CS d'huile d'olive puis mélanger
+  - 4, Ajouter 250 ml d'eau chaud par lot de 50 ml et mélanger à chaque fois jusqu'a obtenir une pate sans farine seche et sans etre liquide 
+  - 5, Laisser reposer dans le four pendant 10 min si levure boulangere instantanée
+  - 6, Couper les tomates, poivrons et oignons en lamelle
+  - 7, Prechauffer le four à 180°C
+  - 7, Nettoyer la table puis mettre de la farine dessus 
+  - 8, Petrir la pate en mettant regulierement de la farine sur ses mains pour que ca ne colle pas
+  - 9, Faire cuire la pate 10 min à 180°C
+  - 10, Etaler généreusement le concentré de tomate sur toute la pate
+  - 11, Ajouter les légumes et le fromage
+  - 12, Faire cuire au four 10-20 min à 200°C sur du papier cuisson, le temps que le fromage fonde.
