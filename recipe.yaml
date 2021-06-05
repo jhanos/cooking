@@ -106,7 +106,7 @@
   - 1, Ajouter une pincée de sel et de sucre et melanger
   - 2, Ajouter la levure boulangere et mélanger 
   - 3, Ajouter les 2 CS d'huile d'olive puis mélanger
-  - 4, Ajouter 250 ml d'eau chaud par lot de 50 ml et mélanger à chaque fois jusqu'a obtenir une pate sans farine seche et sans etre liquide 
+  - 4, Ajouter 250 ml (max) d'eau tiede par lot de 50 ml et mélanger à chaque fois jusqu'a obtenir une pate sans farine seche et sans etre liquide 
   - 5, Laisser reposer dans le four pendant 10 min si levure boulangere instantanée
   - 6, Couper les tomates, poivrons et oignons en lamelle
   - 7, Prechauffer le four à 180°C
@@ -116,3 +116,23 @@
   - 10, Etaler généreusement le concentré de tomate sur toute la pate
   - 11, Ajouter les légumes et le fromage
   - 12, Faire cuire au four 10-20 min à 200°C sur du papier cuisson, le temps que le fromage fonde.
+- name: porridge
+  composants:
+  - name: lait coco
+    size: 120 ml
+  - name: sirop erable
+    size: 1 cs
+  - name: flocon avoine
+    size: 30g
+  - name: fruits frais ou sec (pomme banane poire)
+    size: none
+  - name: graine de chia
+    size: 1 cs
+  - name: copeau de noix de coco/raisin
+    size: none
+  recipe:
+  - 0, Verser le lait de coco dans un bol
+  - 1, Verser le sirop d'erable puis melanger puis les graines de chia et mélanger et eventuellement le chocolat en poudre amer
+  - 2, Verser les flocons d'avoine et mélanger doucement.
+  - 4, Laisser une nuit au frigo
+  - 5, Ajouter des fruits frais ou sec le matin
